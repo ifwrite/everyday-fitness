@@ -6,7 +6,7 @@
  Sun. |✔️||✔️|
  Mon. |
  Tues.|✔️||✔️|
- Wed. |
-Thurs.|
+ Wed. |||✔️
+Thurs.|||✔️
  Fri. | 
- Sat. ||| ✔️
+ Sat. ||| 
