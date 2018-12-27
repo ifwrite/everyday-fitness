@@ -3,5 +3,6 @@
 git pull
 git status
 git add .
-git commit -m "$1"
+read comment
+git commit -m "$comment"
 git push
